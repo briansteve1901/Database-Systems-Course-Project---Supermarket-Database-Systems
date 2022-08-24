@@ -9,7 +9,6 @@ Entity Relationship Diagram. After that, we created the database. Then, we creat
 to the tables and the columns. Last but not least, we also created the CREATE VIEW in the database.
 
 Project Creators:
-Group 4 Database Systems - LJ01
 1. 2440079446 - Alexander
 2. 2440091344 - Dyandra Maheswari
 3. 2440092151 - Daniel Widjaja
