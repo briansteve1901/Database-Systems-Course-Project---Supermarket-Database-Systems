@@ -19,4 +19,4 @@ Group 4 Database Systems - LJ01
 7. 2440105942 - Dewi Sri Rejeki
 8. 2440106030 - Brian Steve
 
-If you have any questions, suggestions, or comments related to the project, you can contact me through my email: brians1901@gmail.com. Thank you for visiting and seeing this project!
+If you have any questions, suggestions, or comments related to this project, you can contact me through my email: brians1901@gmail.com. Thank you for visiting and seeing this project!
